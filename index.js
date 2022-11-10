@@ -16,7 +16,7 @@ app.get('/', function (req, res) {
             <div style="border: 1px solid black; height: 10vh; background-color: white;">
                 <h2 style="text-align: center;">NAV BAR</h2>
             </div>
-            <h1>White Page</h1>
+            <h1>White Page!</h1>
         </body>
     `)
 })
